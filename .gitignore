@@ -59,4 +59,4 @@ target/
 
 # Project Specific
 .vagrant/
-*county/
+*.shp
